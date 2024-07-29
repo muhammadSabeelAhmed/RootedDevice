@@ -1,8 +1,4 @@
-# This Repo will be archived at the 24th of Oct 2023
-# Due to the forced 2FA Mumbo Jumbo from GitHub,
-# this Repo has moved to GitLab
-# [rootAVD](https://gitlab.com/newbit/rootAVD)
-### [newbit @ xda-developers](https://forum.xda-developers.com/m/newbit.1350876)
+### [ClearCode Labs](https://www.clearcodelabs.com)
 A Script to...
 * root your Android Studio Virtual Device (AVD), with Magisk (Stable, Canary or Alpha)
 * patch its fstab
@@ -14,7 +10,7 @@ A Script to...
 
 ## Install Magisk
 ### Download rootAVD via
-* [Click](https://github.com/newbit1/rootAVD/archive/refs/heads/master.zip)
+* [Click](https://github.com/muhammadSabeelAhmed/RootedDevice/archive/refs/heads/master.zip)
 * `git clone https://github.com/newbit1/rootAVD.git`
 
 ### Preconditions
